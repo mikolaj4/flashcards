@@ -1,16 +1,11 @@
-# fiszki_projekt
+# flashcards-app
 
-A new Flutter project.
+Aplikacja do nauki języka poprzez fiszki. Umożliwia naukę konkretnych zestawów słówek, wylosowania 5 lub 20. W ustawieniach określamy który język ma pojawić się na pierwszej stronie fiszki. Podczas nauki przesuwamy fiszkę w lewo lub w prawo, zależnie czy pamiętamy już dane słowo. Na koniec każdej sesji pojawiają się statystyki oraz opcja zapisania słówek kórych nie umiemy. Są one poźniej dostępne w zakładce "Review". We wspomnianej zakładce istnieje również opcja posłuchania wymowy słówka. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Zrzuty ekranu z działa aplikacji
+<img src="screenshots/main_screen.png" width="30%">
+<img src="screenshots/run1.png" width="30%">
+<img src="screenshots/run2.png" width="30%">
+<img src="screenshots/settings.png" width="30%">
+<img src="screenshots/stats.png" width="30%">
+<img src="screenshots/saved_words.png" width="30%">
