@@ -1,0 +1,4 @@
+enum SettingsEnum {
+  polishFirst,
+  showAudio,
+}

@@ -1,0 +1,4 @@
+enum LanguageTypeEnum {
+  polish,
+  german,
+}

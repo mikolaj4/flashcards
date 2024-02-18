@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "361698509038",
+    "project_id": "fiszki3",
+    "storage_bucket": "fiszki3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361698509038:android:5ca2636f98ed7538a073ff",
+        "android_client_info": {
+          "package_name": "com.example.fiszki_projekt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361698509038-vs6oujoeqt48ecpcu4e1ulnphue4ark2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6NDPChi41Ki1_4OecQjIobHtcV4DC9tA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361698509038-vs6oujoeqt48ecpcu4e1ulnphue4ark2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
